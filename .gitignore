@@ -1,0 +1,17 @@
+# node-modules
+node_modules/
+
+# Production build outputs
+dist/
+dist-ssr/
+
+# Editor directories
+.vscode/
+.idea/
+
+# Other non-project directories
+Final portfolio/
+
+# OS files
+.DS_Store
+Thumbs.db
